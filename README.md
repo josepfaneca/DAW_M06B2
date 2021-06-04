@@ -8,4 +8,4 @@ Tecnologies conegudes que tractarem són jQuery (és una biblioteca d'ús força
 
 Podreu anar assolint tots aquests objectius amb l'estudi del material que, com veureu, està ple d'exemples, molts dels quals podreu provar en el mateix moment de llegir-los, i amb la realització dels tres EAC que té el bloc.
 
-<p href="https://ioc.xtec.cat/materials/FP/Materials/ICC0_DAW/DAW_ICC0_M06/web/html/index.html"> Material <p>
+[Materials del Curs](https://ioc.xtec.cat/materials/FP/Materials/ICC0_DAW/DAW_ICC0_M06/web/html/index.html)
